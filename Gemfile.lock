@@ -31,6 +31,7 @@ GEM
       terminal-table (~> 2.0)
     jekyll-sass-converter (2.1.0)
       sassc (> 2.0.1, < 3.0)
+    jekyll-theme-potato-hacker (1.0.2)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.0)
@@ -63,6 +64,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-theme-potato-hacker
 
 BUNDLED WITH
-   2.2.6
+   2.2.7
